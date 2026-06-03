@@ -1,9 +1,6 @@
 import numpy as np
 
 # ============================================================
-# EXPERIMENT 3: Matrix Operations for Stress-Strain Analysis
-# Subject: AI in Mechanical Engineering (ONT406)
-# Sharda University
 # ============================================================
 
 class StressTensorError(ValueError):
