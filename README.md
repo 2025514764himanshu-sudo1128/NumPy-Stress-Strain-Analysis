@@ -1,0 +1,1 @@
+# NumPy-Stress-Strain-Analysis
