@@ -1,8 +1,5 @@
 # Experiment 03: Matrix Operations for Stress-Strain Analysis using NumPy
 
-**Subject:** AI in Mechanical Engineering (ONT406)
-**Sharda University, Greater Noida**
-
 ---
 
 ## Aim
@@ -65,8 +62,8 @@ python -c "import numpy; print(numpy.__version__)"
 ## How to Run
 
 ```bash
-git clone https://github.com/2025514764himanshu-sudo1128/Exp03-NumPy-Stress-Strain-Analysis.git
-cd Exp03-NumPy-Stress-Strain-Analysis
+git clone https://github.com/2025514764himanshu-sudo1128/NumPy-Stress-Strain-Analysis.git
+cd NumPy-Stress-Strain-Analysis
 python stress_strain_numpy.py
 ```
 
